@@ -1,7 +1,7 @@
 ## Images
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/sniper.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="80%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Sniper-V2/main/img/png1.png?token=GHSAT0AAAAAAB7OH5WMOFHBCYWGBA5YZXG6ZCYBJJA"></img>
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Url-Sniper/main/img/31.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="60%" src="https://raw.githubusercontent.com/Ayhuuu/Discord-Vanity-Sniper-V2/main/img/png2.png?token=GHSAT0AAAAAAB7OH5WM5RBIQH4A4MBKDC2EZCYBJMQ"></img>
 
 ## Setup:
 
