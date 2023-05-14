@@ -18,3 +18,5 @@
 
 
 » open `stop.bat` to stop the program
+
+»Thanks for decline
