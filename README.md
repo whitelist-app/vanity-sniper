@@ -5,7 +5,7 @@
 
 ## Setup:
 
-» if you need help discord:Ayhu#1337
+» if you need help discord: Ayhu#1337
 
 » if node is not installed download it [Node.js](https://nodejs.org/en/download/)
 
