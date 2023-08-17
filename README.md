@@ -5,9 +5,6 @@
 
 ## Setup:
 
-» if you need premium version telegram: https://t.me/Ayhhuu
-
-» if you need help discord: Ayhu#1337
 
 » if node is not installed download it [Node.js](https://nodejs.org/en/download/)
 
